@@ -1,6 +1,7 @@
 # oshogatsu
 
 Tweet remaining days for next New Year days.
+This tweet inspired Japanese song, which starts from 「もーいくつねーるとー、おしょーがつ」。  
 
 ## Python version
 
