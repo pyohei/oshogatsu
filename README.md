@@ -20,6 +20,11 @@ After setting, you can tweet as follows,
 python2.7 tweet.py
 ```
 
+## Attention
+
+If you tweet twice in same day, Twitter API return error.  
+So you have to delete previous tweet.
+
 ## Licence
 
 MIT

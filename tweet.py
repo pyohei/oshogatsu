@@ -1,8 +1,6 @@
-#!/usr/local/bin/python
 # -*- coding: utf-8 -*-
-
 """
-tweet rest days
+Tweet remaining days for next New Year.
 """
 from calculation import Calculation
 import tweepy

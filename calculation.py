@@ -33,5 +33,5 @@ class Calculation(object):
 
 if __name__ == '__main__':
     c = Calculation()
-    print c.calc_rest_day()
-    print c.calc_passed_rate()
+    print(c.calc_rest_day())
+    print(c.calc_passed_rate())
