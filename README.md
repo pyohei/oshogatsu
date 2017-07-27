@@ -2,6 +2,13 @@
 
 Tweet remaining days for next New Year days.
 
+## Python version
+
+I checked the below version,
+
+* 2.7.10
+* 3.6.1
+
 ## Usage
 
 You set twitter consumer key and access key in environment values.  
